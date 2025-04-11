@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Sinan Malik"
 title_separator          : "-"
 name                     : &name "Muhammed Sinan Malik"
 description              : &description "personal description"
@@ -29,7 +29,8 @@ author:
   location         : "Kerala, India"
   employer         : "University of Calicut"
   uri              : # URL
-  email            : "sinanmalik43@gmail.com" 
+  email            : "sinanmalik43@gmail.com"
+  X            : "@sinanmalik43"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
