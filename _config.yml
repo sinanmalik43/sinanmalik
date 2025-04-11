@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "minimal"
 title                    : "Sinan Malik"
 title_separator          : "-"
 name                     : &name "Muhammed Sinan Malik"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sinanmalik43.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Muhammed Sinan Malik"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Kerala, India"
+  bio              : "Systems Neuroscience| Zebrafish| writes @preLights"
+  location         : "KL, India"
   employer         : "University of Calicut"
   uri              : # URL
   email            : "sinanmalik43@gmail.com"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "sinan malik"
+  bluesky          : "https://bsky.app/profile/sinanmalik.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Muhammed Sinan Malik"
+  linkedin         : "https://www.linkedin.com/in/sinanmalik"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
