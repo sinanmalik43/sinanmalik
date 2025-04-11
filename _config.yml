@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "minimal"
+site_theme               : "dark"
 title                    : "Sinan Malik"
 title_separator          : "-"
 name                     : &name "Muhammed Sinan Malik"
 description              : &description "personal description"
-url                      : "https://academicpages/academicpages.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
