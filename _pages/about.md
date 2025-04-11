@@ -39,11 +39,7 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I am Sinan Malik, and I recently completed my master's degree in Biology from Periyar University, Salem, India . I am currently a research intern in Dr. Binu's Neuronal Plasticity Group, where I explore behavioral plasticity and examine the learning processes of larval zebrafish. I am passionate about the neuronal, molecular, and circuit mechanisms underlying decision-making, multisensory integration, and information processing, including how this information is represented, transformed, and influenced by internal bodily states to regulate both conscious and instinctive behavior. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
